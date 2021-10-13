@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Play.Models
 {
-    public class Song
+    public class Nintendo
     {
         [Key]
         public string nombre { get; set; }
